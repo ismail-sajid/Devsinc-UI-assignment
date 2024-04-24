@@ -1,0 +1,12 @@
+
+    .main-container-box{
+        background-color:  #28293E;
+    }
+    
+@media screen and (max-width: 500px){
+    .d-flex{
+    flex-direction: columm-reverse;
+    
+    
+    }
+}
